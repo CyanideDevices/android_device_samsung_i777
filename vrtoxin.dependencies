@@ -1,0 +1,31 @@
+[
+    {
+        "remote":"device",
+        "repository": "android_device_samsung_galaxys2-common",
+        "target_path": "device/samsung/galaxys2-common",
+        "revision":"M"
+    },
+    {
+        "remote":"device",
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "revision":"M"
+    },
+    {
+        "remote":"device",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision":"M"
+    },
+    {
+        "remote":"origin",
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "revision":"M"
+    },
+    {   "remote":"origin",
+        "repository": "android_external_stlport",
+        "target_path": "external/stlport",
+        "revision":"M"
+    }
+]
