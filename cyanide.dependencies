@@ -12,7 +12,7 @@
         "revision":"M"
     },
     {
-        "remote":"device",
+        "remote":"origin",
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
         "revision":"M"
